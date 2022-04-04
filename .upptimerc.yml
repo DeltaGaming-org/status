@@ -15,7 +15,6 @@ status-website:
   name: Delta Gaming Status
   introTitle: "**Delta Gaming** is an Australian based FiveM roleplay community based in New South Wales, Australia."
   introMessage: This is Delta Gaming's real-time status page.
-  theme: dark
   navbar:
     - title: Status
       href: /
