@@ -7,8 +7,10 @@ sites:
     check: "tcp-ping"
     url: $SERVER
     port: $FIVEM_PORT
+    icon: https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg
   - name: Forum
     url: https://deltagaming.org
+    icon: https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,6 +29,9 @@ status-website:
       href: https://deltagaming.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
+notifications:
+  NOTIFICATION_DISCORD: true
+  NOTIFICATION_DISCORD_WEBHOOK: true
+  NOTIFICATION_DISCORD_WEBHOOK_URL: $DISCORD_WEBHOOK
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
