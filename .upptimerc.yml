@@ -15,6 +15,7 @@ status-website:
   name: Delta Gaming Status
   introTitle: "**Delta Gaming** is an Australian based FiveM roleplay community based in New South Wales, Australia."
   introMessage: This is Delta Gaming's real-time status page.
+  theme: dark
   navbar:
     - title: Status
       href: /
@@ -22,8 +23,6 @@ status-website:
       href: https://deltagaming.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-status-website:
-  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
