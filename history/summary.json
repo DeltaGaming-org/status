@@ -1,5 +1,23 @@
 [
   {
+    "name": "Server",
+    "url": "$SERVER",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Forum",
     "url": "https://deltagaming.org",
     "icon": "https://favicons.githubusercontent.com/deltagaming.org",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 748,
-    "timeWeek": 748,
-    "timeMonth": 748,
-    "timeYear": 748,
+    "time": 716,
+    "timeDay": 716,
+    "timeWeek": 716,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {}
   }
 ]
