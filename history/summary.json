@@ -22,7 +22,7 @@
     "url": "https://deltagaming.org",
     "icon": "https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 733,
     "timeMonth": 733,
     "timeYear": 733,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-07": 0
+    }
   }
 ]
