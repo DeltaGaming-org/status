@@ -3,13 +3,11 @@ owner: DeltaGaming-org # Your GitHub organization or username, where this reposi
 repo: status # The name of this repository
 
 sites:
-  - name: Server
-    check: "tcp-ping"
-    url: $SERVER
-    port: $FIVEM_PORT
-    icon: https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg
-  - name: Forum
+  - name: Web Service
     url: https://deltagaming.org
+    icon: https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg
+  - name: Game Service
+    url: $FIVEM_SERVER
     icon: https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg
 
 status-website:
@@ -27,8 +25,8 @@ status-website:
       href: /
     - title: Forum
       href: https://deltagaming.org
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://discord.gg/deltagaming
 notifications:
   NOTIFICATION_DISCORD: true
   NOTIFICATION_DISCORD_WEBHOOK: true
