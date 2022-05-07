@@ -4,25 +4,27 @@
     "url": "https://deltagaming.org",
     "icon": "https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg",
     "slug": "web-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 732,
     "timeDay": 666,
     "timeWeek": 732,
     "timeMonth": 732,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 1
+    }
   },
   {
     "name": "Game Service",
     "url": "$FIVEM_SERVER",
     "icon": "https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg",
     "slug": "game-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 855,
     "timeMonth": 855,
     "timeYear": 855,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   }
 ]
