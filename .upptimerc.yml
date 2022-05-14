@@ -17,6 +17,7 @@ status-website:
   cname: status.deltagaming.org
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.discordapp.com/attachments/930355225007652884/947625013383671830/testdelta.png
+  favicon: https://raw.githubusercontent.com/DeltaGaming-org/status/master/assets/delta-logo.ico
   name: Delta Gaming Status
   introTitle: "**Delta Gaming** is an Australian based FiveM roleplay community based in New South Wales, Australia."
   introMessage: This is Delta Gaming's real-time status page.
