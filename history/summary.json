@@ -4,7 +4,7 @@
     "url": "https://deltagaming.org",
     "icon": "https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg",
     "slug": "web-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 786,
     "timeMonth": 774,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-14": 0
+    }
   },
   {
     "name": "Game Service",
@@ -23,11 +25,11 @@
     "icon": "https://raw.githubusercontent.com/DeltaGaming-org/status/master/static/server.svg",
     "slug": "game-service",
     "status": "up",
-    "uptime": "91.21%",
-    "uptimeDay": "27.53%",
+    "uptime": "91.54%",
+    "uptimeDay": "35.51%",
     "uptimeWeek": "89.01%",
-    "uptimeMonth": "91.21%",
-    "uptimeYear": "91.21%",
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "91.54%",
     "time": 1214,
     "timeDay": 823,
     "timeWeek": 1400,
