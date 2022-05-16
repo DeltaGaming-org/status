@@ -1,7 +1,7 @@
 url: $FIVEM_SERVER
-status: up
-code: 200
-responseTime: 363
-lastUpdated: 2022-05-15T23:23:11.090Z
+status: down
+code: 530
+responseTime: 159
+lastUpdated: 2022-05-16T10:56:53.205Z
 startTime: Thu May 05 2022 07:04:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
